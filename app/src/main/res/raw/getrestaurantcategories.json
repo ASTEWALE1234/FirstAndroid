@@ -1,0 +1,435 @@
+[
+    {
+        "code": "PREFE000000968",
+        "name": "BAR.",
+        "productType": "Category",
+        "category": "Super-Parent",
+        "price": 0.0,
+        "delivery_charge": 0,
+        "children": [
+            {
+                "code": "PREFE000000869",
+                "name": "Beverage",
+                "productType": "Category",
+                "category": "PREFE000000968",
+                "price": 0.0,
+                "delivery_charge": 0,
+                "children": [
+                    {
+                        "code": "PREFE000000877",
+                        "name": "BRANDY",
+                        "productType": "Category",
+                        "category": "PREFE000000869",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00045",
+                                "name": "REMY MARTIN VSOP BOTTEL",
+                                "productType": "Article",
+                                "category": "BRANDY",
+                                "price": 6007.91,
+                                "delivery_charge": 0,
+                                "children": []
+                            },
+                            {
+                                "code": "P-01493",
+                                "name": "PIPPER CHAMPAGNE",
+                                "productType": "Article",
+                                "category": "BRANDY",
+                                "price": 4505.0,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000873",
+                        "name": "Alcoholic Drinks L",
+                        "productType": "Category",
+                        "category": "PREFE000000869",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00047",
+                                "name": "Martini Bianco",
+                                "productType": "Article",
+                                "category": "Alcoholic Drinks L",
+                                "price": 2185.0,
+                                "delivery_charge": 0,
+                                "children": []
+                            },
+                            {
+                                "code": "P-00048",
+                                "name": "CAMPARI BITTER BOTT",
+                                "productType": "Article",
+                                "category": "Alcoholic Drinks L",
+                                "price": 3557.0,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000874",
+                        "name": "Alcoholic LIQUEUR",
+                        "productType": "Category",
+                        "category": "PREFE000000869",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00054",
+                                "name": "Counoisiervs Bottle",
+                                "productType": "Article",
+                                "category": "Alcoholic LIQUEUR",
+                                "price": 3600.0,
+                                "delivery_charge": 0,
+                                "children": []
+                            },
+                            {
+                                "code": "P-00055",
+                                "name": "Cournoisier  Vs Shot",
+                                "productType": "Article",
+                                "category": "Alcoholic LIQUEUR",
+                                "price": 173.0,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000875",
+                        "name": "Beer.",
+                        "productType": "Category",
+                        "category": "PREFE000000869",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00068",
+                                "name": "ST.GEORGE",
+                                "productType": "Article",
+                                "category": "Beer.",
+                                "price": 55.34,
+                                "delivery_charge": 0,
+                                "children": []
+                            },
+                            {
+                                "code": "P-00069",
+                                "name": "DOPPLE DRAFT",
+                                "productType": "Article",
+                                "category": "Beer.",
+                                "price": 55.34,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "PREFE000000871",
+        "name": "Food",
+        "productType": "Category",
+        "category": "Super-Parent",
+        "price": 0.0,
+        "delivery_charge": 0,
+        "children": [
+            {
+                "code": "PREFE000000881",
+                "name": "Fresh Juices",
+                "productType": "Category",
+                "category": "PREFE000000871",
+                "price": 0.0,
+                "delivery_charge": 10,
+                "children": [
+                    {
+                        "code": "P-00131",
+                        "name": "AVOCADO SMOOTHIE",
+                        "productType": "Article",
+                        "category": "Fresh Juices",
+                        "price": 71.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00132",
+                        "name": "ORANGE SMOOTHIE",
+                        "productType": "Article",
+                        "category": "Fresh Juices",
+                        "price": 71.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "PREFE000000888",
+                "name": "Kuriftu Restaurant",
+                "productType": "Category",
+                "category": "PREFE000000871",
+                "price": 0.0,
+                "delivery_charge": 10,
+                "children": [
+                    {
+                        "code": "P-00175",
+                        "name": "SHRIMPS AND SMOKED SALMON",
+                        "productType": "Article",
+                        "category": "Kuriftu Restaurant",
+                        "price": 179.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00176",
+                        "name": "Buffalo Chicken Wings    ",
+                        "productType": "Article",
+                        "category": "Kuriftu Restaurant",
+                        "price": 99.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "PREFE000000897",
+                "name": "Pizza",
+                "productType": "Category",
+                "category": "PREFE000000871",
+                "price": 0.0,
+                "delivery_charge": 10,
+                "children": [
+                    {
+                        "code": "P-00247",
+                        "name": "Margharita Pizza",
+                        "productType": "Article",
+                        "category": "Pizza",
+                        "price": 170.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00248",
+                        "name": "Vegetabel Pizza..",
+                        "productType": "Article",
+                        "category": "Pizza",
+                        "price": 145.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00249",
+                        "name": "Tuna Pizza",
+                        "productType": "Article",
+                        "category": "Pizza",
+                        "price": 155.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "PREFE000000889",
+                "name": "Kuriftu Restaurant alacart menu",
+                "productType": "Category",
+                "category": "PREFE000000871",
+                "price": 0.0,
+                "delivery_charge": 10,
+                "children": [
+                    {
+                        "code": "P-00384",
+                        "name": "SAUTHER FRID CHICKEN",
+                        "productType": "Article",
+                        "category": "Kuriftu Restaurant alacart menu",
+                        "price": 204.0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00392",
+                        "name": "TUNA SALAD",
+                        "productType": "Article",
+                        "category": "Kuriftu Restaurant alacart menu",
+                        "price": 60.0,
+                        "delivery_charge": 0,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "PREFE000000920",
+        "name": "Shirshir",
+        "productType": "Category",
+        "category": "Super-Parent",
+        "price": 0.0,
+        "delivery_charge": 0,
+        "children": [
+            {
+                "code": "PREFE000000922",
+                "name": "Shirshir Beverage ",
+                "productType": "Category",
+                "category": "PREFE000000920",
+                "price": 0.0,
+                "delivery_charge": 0,
+                "children": [
+                    {
+                        "code": "PREFE000000925",
+                        "name": "Dry Alchol Shot Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00481",
+                                "name": "BLACK LABLE SHOT(SHIRSHIR)",
+                                "productType": "Article",
+                                "category": "Dry Alchol Shot Shirshir",
+                                "price": 94.86,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000924",
+                        "name": "Dry Alchol Bottle Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00482",
+                                "name": "GOLD LABEL 1L(SHIRSHIR)",
+                                "productType": "Article",
+                                "category": "Dry Alchol Bottle Shirshir",
+                                "price": 4347.83,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000926",
+                        "name": "Wine Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00519",
+                                "name": "R.V.CUVE PERSTAGE RED(SALSA)",
+                                "productType": "Article",
+                                "category": "Wine Shirshir",
+                                "price": 454.55,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000923",
+                        "name": "Beer Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00530",
+                                "name": "HEINEKEN (SHI)",
+                                "productType": "Article",
+                                "category": "Beer Shirshir",
+                                "price": 39.53,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000928",
+                        "name": "Soft Drink Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00537",
+                                "name": "RED BULL(SHI)",
+                                "productType": "Article",
+                                "category": "Soft Drink Shirshir",
+                                "price": 118.58,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "code": "PREFE000000927",
+                        "name": "Cocktaile Shirshir",
+                        "productType": "Category",
+                        "category": "PREFE000000922",
+                        "price": 0.0,
+                        "delivery_charge": 10,
+                        "children": [
+                            {
+                                "code": "P-00541",
+                                "name": "SHIRISHIR SHOT",
+                                "productType": "Article",
+                                "category": "Cocktaile Shirshir",
+                                "price": 55.34,
+                                "delivery_charge": 0,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "PREFE000000921",
+                "name": "Shirsir Food ",
+                "productType": "Category",
+                "category": "PREFE000000920",
+                "price": 0.0,
+                "delivery_charge": 10,
+                "children": [
+                    {
+                        "code": "P-00633",
+                        "name": "CHIKINA TIBS(SHIRSHIR)",
+                        "productType": "Article",
+                        "category": "Shirsir Food ",
+                        "price": 197.63,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00636",
+                        "name": "FOUL MESDAMES(SHI)",
+                        "productType": "Article",
+                        "category": "Shirsir Food ",
+                        "price": 86.96,
+                        "delivery_charge": 0,
+                        "children": []
+                    },
+                    {
+                        "code": "P-00642",
+                        "name": "CHEESE CAKE(SHI)",
+                        "productType": "Article",
+                        "category": "Shirsir Food ",
+                        "price": 86.95,
+                        "delivery_charge": 0,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
